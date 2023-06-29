@@ -1,2 +1,3 @@
-# darmoo.github.io
-Personal web page
+# DMarkets Discord Bot
+- [Term of Service](https://darmoo.github.io/Dmarkets-ToS/)
+- [Privacy policy](https://darmoo.github.io/Dmarkets-privacy-policy/)
